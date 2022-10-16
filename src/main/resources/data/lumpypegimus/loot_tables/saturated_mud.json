@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entrties": [
+        {
+          "type": "minecraft:item",
+          "name": "lumpypegimus:grub_meal"
+        }
+      ]
+    }
+  ]
+}

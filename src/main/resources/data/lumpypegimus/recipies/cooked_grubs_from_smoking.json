@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "cookingtime": 50,
+  "experience": 0.25,
+  "ingredient": {
+    "item": "lumpypegimus:grub_meal"
+  },
+  "result": "lumpypegimus:cooked_grubs"
+}

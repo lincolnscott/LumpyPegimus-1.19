@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "cookingtime": 75,
+  "experience": 0.25,
+  "ingredient": {
+    "item": "lumpypegimus:grub_meal"
+  },
+  "result": "lumpypegimus:cooked_grubs"
+}
