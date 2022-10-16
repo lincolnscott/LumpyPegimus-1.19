@@ -15,5 +15,6 @@ public class LumpyPegimus implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
 	}
 }
